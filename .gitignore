@@ -14,7 +14,7 @@
 *.esproj.user
 
 # # temp, to ignore while creating Repository
-/src
+# /src
 # *.js
 
 # node_modules # already present
