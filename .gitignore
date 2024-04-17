@@ -15,7 +15,7 @@
 
 # # temp, to ignore while creating Repository
 /src
-*.js
+# *.js
 
 # node_modules # already present
 
